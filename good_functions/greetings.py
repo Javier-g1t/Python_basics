@@ -4,4 +4,4 @@ def greet(name):
 def weird_greet(name):
     return f"¡Holasa konda {name}!, como vai nashe?, anasheli?? "
 
-
+print(__name__)
