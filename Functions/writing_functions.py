@@ -15,7 +15,7 @@ def saludar(nombre,sexo):
 
     print(f"Hola {nombre}, mi {adjetivo} ¿Como andas?")
 
-saludar("Vania", "MUjer")
+saludar("Vania", "mujer")
 saludar("Mario", "hombre")
 saludar("Axel", "none")
 
